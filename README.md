@@ -10,9 +10,12 @@
   Bacharelado em Ciência da Computação — Fev/2022 – Dez/2025
 
 ## 💼 Experiência & Projetos
-- **Monitoria de Programação Orientada a Objetos** (1º semestre/2024)  
+- **Monitoria de Programação Orientada a Objetos** (1º semestre/2024)
+- **Monitoria de Engenharia de Software** (2º semestre/2024)  
 - **Iniciação Científica** (2024)  
-- **FEPRO – Feira de Profissões** (2023)
+- **FEPRO – Feira de Profissões UNICID** (2023)
+- **MOCHILÃO - Feira de Profissões UNICID** (2024)
+- **WECTI 2024 - Oficina de Programação com Arduino** (2024)
 
 ## 🚀 Tecnologias & Skills
 
@@ -32,18 +35,21 @@
           <th>Front‑end</th>
           <th>Mobile</th>
           <th>Banco de Dados</th>
+          <th>Cloud & DevOps</th>
         </tr>
         <tr>
-          <td>Java • Spring</td>
-          <td>HTML5 • CSS3</td>
+          <td>Java • Spring Boot</td>
+          <td>HTML5 • CSS3 • Angular</td>
           <td>Android Studio</td>
           <td>SQL • NoSQL</td>
+          <td>Docker</td>
         </tr>
         <tr>
           <td>APIs REST</td>
-          <td>JavaScript (ES6)</td>
+          <td>JavaScript (ES6) • SCSS</td>
           <td>Flutter (em estudo)</td>
-          <td></td>
+          <td>PostgreSQL • MongoDb</td>
+          <td>Azure (Em estudo)</td>
         </tr>
       </table>
     </td>
@@ -56,10 +62,10 @@
 </table>
 
 ## 🔖 Projetos Recentes
-- [📱 Meu App Android](#)  
-  App de exemplo usando Retrofit e MVVM.  
-- [🌐 Site Pessoal](#)  
-  Landing page responsiva em HTML5 e CSS3.
+- [📱 Meu Portifólio](https://gusmacedo.netlify.app/)  
+  Aplicação WEB utilizando Angular para mostrar mais sobre mim.
+- [🌐 Projeto InOut](https://github.com/gustavomotamacedo/projeto_inout)  
+  Aplicação mobile utilizada para otimizar a entrada dos alunos na WECTI 2024.
 
 <p align="center">
   <img 
@@ -94,14 +100,22 @@
   <a href="https://www.linkedin.com/in/gustavomotamacedo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo"/>
   </a>
-  <a href="https://instagram.com/mocc3_" target="_blank">
+  <a href="https://instagram.com/gusmaced0" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo"/>
   </a>
 </p>
 
 ---
 
-<img src="https://raw.githubusercontent.com/gustavomotamacedo/gustavomotamacedo/output/snake.svg" alt="Snake animation" />
+<img width="100%" src="https://raw.githubusercontent.com/gustavomotamacedo/gustavomotamacedo/output/snake.svg" alt="Snake animation" />
+
+---
+
+<div align="center">
+   <a href="https://spotify-recently-played-readme.vercel.app/api?user=31iwi3cbln3rz57u42g7q2anryzq" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31iwi3cbln3rz57u42g7q2anryzq&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ---
 
