@@ -38,8 +38,8 @@
           <th>Cloud & DevOps</th>
         </tr>
         <tr>
-          <td>Java • Spring Boot</td>
-          <td>HTML5 • CSS3 • Angular</td>
+          <td>Java</td>
+          <td>HTML5 • CSS3</td>
           <td>Android Studio</td>
           <td>SQL • NoSQL</td>
           <td>Docker</td>
@@ -47,9 +47,16 @@
         <tr>
           <td>APIs REST</td>
           <td>JavaScript (ES6) • SCSS</td>
-          <td>Flutter (em estudo)</td>
+          <td></td>
           <td>PostgreSQL • MongoDb</td>
           <td>Azure (Em estudo)</td>
+        </tr>
+        <tr>
+          <td>Spring Boot</td>
+          <td>Angular</td>
+          <td></td>
+          <td></td>
+          <td></td>
         </tr>
       </table>
     </td>
