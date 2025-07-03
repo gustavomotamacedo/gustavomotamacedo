@@ -73,6 +73,10 @@
   Aplicação WEB utilizando Angular para mostrar mais sobre mim.
 - [🌐 Projeto InOut](https://github.com/gustavomotamacedo/projeto_inout)  
   Aplicação mobile utilizada para otimizar a entrada dos alunos na WECTI 2024.
+- [📂 Projeto BLUE](https://github.com/DesenvolvedoresLEGAL/projetoblue)  
+  Aplicação de gestão inteligente desenvolvida para a Operadora Legal.
+- [🏢 Projeto Eventrix](https://github.com/DesenvolvedoresLEGAL/app-eventrix)  
+  Aplicação SaaS B2B para organização de eventos.
 
 <p align="center">
   <img 
