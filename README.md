@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou <strong>Gustavo Mota Macedo</strong> 👋</h1>
 <p align="center">
-  <em>Estudante de Ciência da Computação • Apaixonado por back‑end, mobile e APIs</em>
+  <em>Cientista da computação • Apaixonado por back‑end, engenharia de inteligência artificial e integração de IA em sistemas</em>
 </p>
 
 ---
@@ -8,14 +8,19 @@
 ## 🎓 Formação
 - **Universidade Cidade de São Paulo (UNICID)**  
   Bacharelado em Ciência da Computação — Fev/2022 – Dez/2025
+- **Centro Universitário União das Américas Descomplica (UNIAMÉRICA)**  
+  Pós Graduação em Engenharia de Software — Fev/2026 – Ago/2026
 
 ## 💼 Experiência & Projetos
-- **Monitoria de Programação Orientada a Objetos** (1º semestre/2024)
+- **Desenvolvedor Pleno** - Fastview Sistemas Integrados LTDA (Abril 2026 - Atualmente)
+- **Desenvolvedor full-stack | Engenheiro de IA** - Operadora Legal X (Maio 2025 - Abril 2026)
+- **Consultor | Professor de Programação em Java e Spring Boot** - Escola DNC (Novembro 2025 - Fevereiro 2026)
+- **Iniciação Científica em Astrofísica** (2024)  
 - **Monitoria de Engenharia de Software** (2º semestre/2024)  
-- **Iniciação Científica** (2024)  
-- **FEPRO – Feira de Profissões UNICID** (2023)
-- **MOCHILÃO - Feira de Profissões UNICID** (2024)
-- **WECTI 2024 - Oficina de Programação com Arduino** (2024)
+- **WECTI 2024 - Professor de Programação com Arduino** - UNICID (2024)
+- **Monitoria de Programação Orientada a Objetos** (1º semestre/2024)
+- **MOCHILÃO - Feira de Profissões** - UNICID (2024)
+- **FEPRO – Feira de Profissões** - UNICID (2023)
 
 ## 🚀 Tecnologias & Skills
 
@@ -38,25 +43,32 @@
           <th>Cloud & DevOps</th>
         </tr>
         <tr>
-          <td>Java</td>
-          <td>HTML5 • CSS3</td>
+          <td>Python</td>
+          <td>React</td>
           <td>Android Studio</td>
           <td>SQL • NoSQL</td>
           <td>Docker</td>
         </tr>
         <tr>
-          <td>APIs REST</td>
-          <td>JavaScript (ES6) • SCSS</td>
-          <td></td>
+          <td>Fast API</td>
+          <td>MVC</td>
+          <td>React Native</td>
           <td>PostgreSQL • MongoDb</td>
-          <td>Azure (Em estudo)</td>
+          <td>AWS</td>
         </tr>
         <tr>
           <td>Spring Boot</td>
-          <td>Angular</td>
+          <td>Mobile Firts Pattern</td>
           <td></td>
           <td></td>
+          <td>Lean • Agile</td>
+        </tr>
+        <tr>
+          <td>Langchain Framework</td>
           <td></td>
+          <td></td>
+          <td>Vector Database</td>
+          <td>Engenharia de IA</td>
         </tr>
       </table>
     </td>
@@ -69,14 +81,14 @@
 </table>
 
 ## 🔖 Projetos Recentes
-- [📱 Meu Portifólio](https://gusmacedo.netlify.app/)  
-  Aplicação WEB utilizando Angular para mostrar mais sobre mim.
-- [🌐 Projeto InOut](https://github.com/gustavomotamacedo/projeto_inout)  
+- [📱 Meu eu IA](https://gustavomacedo-dev.com/)  
+  Aplicação WEB utilizando React e Python com RAG (Retrieval-Augmented Generation) e LLM (Large Language Model) para divulgar informações sobre mim e minhas experiências.
+- [🌐 InOut](https://github.com/gustavomotamacedo/projeto_inout)  
   Aplicação mobile utilizada para otimizar a entrada dos alunos na WECTI 2024.
-- [📂 Projeto BLUE](https://github.com/DesenvolvedoresLEGAL/projetoblue)  
-  Aplicação de gestão inteligente desenvolvida para a Operadora Legal.
+- [⚖️ VeredictaIA](https://veredictaia.gustavomacedo-dev.com/)  
+  Assistente de redação de documentos, e revisão, utilizando inteligência artificail para licitações municipais.
 - [🏢 Projeto Eventrix](https://github.com/DesenvolvedoresLEGAL/app-eventrix)  
-  Aplicação SaaS B2B para organização de eventos.
+  Aplicação SaaS B2B para organizadoras de eventos.
 
 <p align="center">
   <img 
@@ -88,12 +100,12 @@
 </p>
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px" alt="Python | FastAPI" />        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="40px" alt="Postegresql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40px" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40px" alt="Spring"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="40px" alt="Android"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40px" alt="MySQL"/>
